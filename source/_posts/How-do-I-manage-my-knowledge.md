@@ -1,9 +1,12 @@
 ---
-title: How do I manage my knwoledge
+title: How do I manage my knowledge
 date: 2026-06-10 04:05:25
+categories:
+    - Methodology
 tags:
     - habbit
-    - methodology
+    - note
+    - management
 ---
 
 很多时候栽了跟头才发现很多谚语只是挂在嘴边而没有真正实践。“好记性不如烂笔头”就是其中之一。小学初高中阶段，我们被教导要认真做笔记，但我从来没有实践过--因为哪个阶段的知识实在有限，提高考试分数也只需不断刷题总结规律就行了。但是离开象牙塔真正走入社会，面对纷繁复杂的世界，面对互联网和AI如潮般涌入大脑的知识和信息，我的大脑过载了 -- 我急需一套能够克服我记笔记惰性，降低查找挫折感，满足我囤积癖，能让我向我的过往学习的知识系统。

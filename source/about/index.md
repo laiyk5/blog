@@ -1,6 +1,7 @@
 ---
 title: About
 date: 2026-06-10 03:51:28
+layout: about
 ---
 
 Hello, I'm LAI Yikai, a Master Student in Computer Science.
