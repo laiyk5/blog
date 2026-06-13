@@ -12,3 +12,4 @@ I like discovering new knowledge. I trust number more than words, and I value ma
 
 BTW, I'm looking for PhD oppourtunities, if you have one, please tell me!
 
+If you want to know more about me, please visit [my home page](https://laiyk5.github.io).
